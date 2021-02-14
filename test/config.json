@@ -1,0 +1,53 @@
+{
+   "type": "network",
+   "version": "1.0",
+   "data": "data.json",
+   "logo": {
+     "file": "",
+     "link": "",
+     "text": ""
+   },
+   "text": {
+     "more": "",
+     "intro": "Test intro",
+     "title": "Test title"
+   },
+   "legend": {
+     "edgeLabel": "relations",
+     "colorLabel": "NA",
+     "nodeLabel": "Number of publications"
+   },
+   "features": {
+     "search": true,
+     "groupSelectorAttribute": false,
+     "hoverBehavior": "default"
+   },
+   "informationPanel": {
+     "groupByEdgeDirection": false,
+     "imageAttribute": false
+   },
+   "sigma": {
+     "drawingProperties": {
+       "defaultEdgeType": "line",
+       "defaultHoverLabelBGColor": "#002147",
+       "defaultLabelBGColor": "#ddd",
+       "activeFontStyle": "bold",
+       "defaultLabelColor": "#000",
+       "labelThreshold": 12,
+       "defaultLabelHoverColor": "#fff",
+       "fontStyle": "bold",
+       "hoverFontStyle": "bold",
+       "defaultLabelSize": 16
+     },
+     "graphProperties": {
+       "maxEdgeSize": 10,
+       "minEdgeSize": 0,
+       "minNodeSize": 0,
+       "maxNodeSize": 30
+     },
+     "mouseProperties": {
+       "maxRatio": 1000,
+       "minRatio": 0.1
+     }
+   }
+ }
