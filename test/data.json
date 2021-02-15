@@ -5,15 +5,15 @@
     "x":-5, 
     "y":0, 
     "size":5, 
-    "color":"#B9E2A1", 
+    "color":"#B9E2A1", "attributes":{"Test attribute":"Test","Test integer":"2"}
   },
   {
     "id":"2", 
     "label":"Node 2", 
     "x":0, 
     "y":0, 
-    "size":3, 
-    "color":"#D0EC9C", 
+    "size":0, 
+    "color":"#D0EC9C", "attributes":{"Test attribute":"Test","Test integer":"2"}
   },
   {
     "id":"3", 
@@ -21,7 +21,7 @@
     "x":0, 
     "y":5, 
     "size":3, 
-    "color":"#FDCA78", 
+    "color":"#FDCA78", "attributes":{"Test attribute":"Test","Test integer":"2"}
   }],"edges":[
   {
     "id": 1,
