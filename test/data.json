@@ -2,7 +2,7 @@
   {
     "id":"1", 
     "label":"Node 1", 
-    "x":-5, 
+    "x":-0.1, 
     "y":0, 
     "size":5, 
     "color":"#B9E2A1", "attributes":{"Test attribute":"Test","Test integer":"2"}
@@ -10,16 +10,16 @@
   {
     "id":"2", 
     "label":"Node 2", 
-    "x":0, 
+    "x":0.1, 
     "y":0, 
-    "size":0, 
+    "size":4, 
     "color":"#D0EC9C", "attributes":{"Test attribute":"Test","Test integer":"2"}
   },
   {
     "id":"3", 
     "label":"Node 3", 
     "x":0, 
-    "y":5, 
+    "y":0.1, 
     "size":3, 
     "color":"#FDCA78", "attributes":{"Test attribute":"Test","Test integer":"2"}
   }],"edges":[
