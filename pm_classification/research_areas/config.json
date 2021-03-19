@@ -8,7 +8,7 @@
   "text": ""
  },
  "text": {
-  "intro": "The map shows 3,173,463 publications. The classification underlying the map is based on 17 million Pubmed publications and their citation relations. Top level nodes represent research desciplines. For each of the large nodes, a network of sub-nodes, representing research specialties, is centralized to the node. When clicking on a specialty, a list of underlying topics is presented for the specialty.",
+  "intro": "The map shows 3,173,463 publications. The classification underlying the map is based on 17 million Pubmed publications and their citation relations (NIH Open Citation Collection). Top level nodes represent research desciplines. For each of the large nodes, a network of sub-nodes, representing research specialties, is centralized to the node. When clicking on a specialty, a list of underlying topics is presented for the specialty.",
   "title": "Pubmed map<br>2018-2020"
  },
  "legend": {
