@@ -1,7 +1,7 @@
 {"nodes":[
   {
     "id":"1", 
-    "label":"Node 1rgb", 
+    "label":"Node 1rgba", 
     "x":-0.1, 
     "y":0, 
     "size":5, 
@@ -9,11 +9,11 @@
   },
   {
     "id":"2", 
-    "label":"Node 2", 
+    "label":"Node 2rgb", 
     "x":0.1, 
     "y":0, 
     "size":4, 
-    "color":"#D0EC9C", "attributes":{"Test attribute":"Test","Test integer":"2"}
+    "color":"rgb(0,120,0)", "attributes":{"Test attribute":"Test","Test integer":"2"}
   },
   {
     "id":"3", 
