@@ -5,7 +5,7 @@
     "x":-0.1, 
     "y":0, 
     "size":5, 
-    "color":"#B9E2A1", "attributes":{"Test attribute":"Test","Test integer":"2"}
+    "color":"rgba(0,120,120,150)", "attributes":{"Test attribute":"Test","Test integer":"2"}
   },
   {
     "id":"2", 
