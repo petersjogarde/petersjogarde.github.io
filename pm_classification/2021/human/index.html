@@ -64,6 +64,12 @@
  			  max-width:100%;
  			  padding: 1%;
  		  }
+ 			@media screen and (min-width: 1024px) { 
+ 			  div.mobileOnly {
+   				display: none;
+   				color: red;
+ 			  }
+ 			}
  			#sigma-canvas {background-color:#ffffff}
  		</style>
    <!-- Matomo -->
@@ -89,6 +95,7 @@
  
          <div id="mainpanel" class="leftPane">
              <div class="leftPaneContent">
+				 <div class="mobileOnly"><p  style="color:red">The visualization may not display properly using smart phones or tablets</p></div>
                  <div id="title"></div>
                  <div id="titletext"></div>
                  <div id="legend">
