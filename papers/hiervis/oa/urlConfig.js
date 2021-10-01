@@ -1,1 +1,1 @@
-var urlPackages = "https://bibliometrics.ki.se/analysis_files/packages/v1/";
+var urlPackages = "https://petersjogarde.github.io/packages/v1/";
