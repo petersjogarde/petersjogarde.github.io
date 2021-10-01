@@ -1,0 +1,1 @@
+var urlPackages = "https://bibliometrics.ki.se/analysis_files/packages/v1/";
