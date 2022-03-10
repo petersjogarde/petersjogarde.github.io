@@ -1,0 +1,53 @@
+{
+   "type": "network",
+   "version": "1.0",
+   "data": "data.json",
+   "logo": {
+     "file": "",
+     "link": "",
+     "text": ""
+   },
+   "text": {
+     "more": "The map shows a subject categorization of 12.4 million publications from 2005-2021. Large nodes represent research desciplines. Thier colors represent broader research areas. For each of the large nodes, a network of sub-nodes, representing research specialties, is centralized to the parent node. When clicking on a specialty, a list of underlying topics is presented for the specialty. The classification has been obtained by algorithmic clustering based on direct citation relations between 17.1 million publications.<br>Clicking on a disciplines shows underlying specialties as well as sibling disciplines. Clicking on a specialty shows the 20 strongest connected specialties as well as the parent discipline.",
+     "intro": "The map shows a subject categorization of 12.4 million publications from 2005-2021. Large nodes represent research desciplines. Thier colors represent broader research areas. For each of the large nodes, a network of sub-nodes, representing research specialties, is centralized to the parent node. When clicking on a specialty, a list of underlying topics is presented for the specialty. The classification has been obtained by algorithmic clustering based on direct citation relations between 17.1 million publications.<br>Clicking on a disciplines shows underlying specialties as well as sibling disciplines. Clicking on a specialty shows the 20 strongest connected specialties as well as the parent discipline.",
+     "title": "Map of Pubmed<br>2005-2021"
+   },
+   "legend": {
+     "edgeLabel": "Citation relations (Normalized)",
+     "colorLabel": "Research areas",
+     "nodeLabel": "Number of publications (different scales are used for disciplines and specialties)"
+   },
+   "features": {
+     "search": true,
+     "groupSelectorAttribute": false,
+     "hoverBehavior": "default"
+   },
+   "informationPanel": {
+     "groupByEdgeDirection": false,
+     "imageAttribute": false
+   },
+   "sigma": {
+     "drawingProperties": {
+       "defaultEdgeType": "line",
+       "defaultHoverLabelBGColor": "#002147",
+       "defaultLabelBGColor": "#ddd",
+       "activeFontStyle": "bold",
+       "defaultLabelColor": "#000",
+       "labelThreshold": 24,
+       "defaultLabelHoverColor": "#fff",
+       "fontStyle": "bold",
+       "hoverFontStyle": "bold",
+       "defaultLabelSize": 16
+     },
+     "graphProperties": {
+       "maxEdgeSize": 10,
+       "minEdgeSize": 0,
+       "minNodeSize": 0,
+       "maxNodeSize": 40
+     },
+     "mouseProperties": {
+       "maxRatio": 1000,
+       "minRatio": 0.5
+     }
+   }
+ }
