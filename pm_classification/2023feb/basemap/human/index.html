@@ -1,0 +1,132 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>PubMed-% Human</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>D3PO</title>
+  <script src="../urlConfig.js" type="text/javascript" language="javascript"></script>
+  
+  <script>
+	function loadError(oError) {
+	  throw new URIError("The script " + oError.target.src + " did not load correctly.");
+	}
+  function affixStyleToHead(url, onloadFunction) {
+	  var newStyle = document.createElement("link");
+	  newStyle.onerror = loadError;
+	  if (onloadFunction) { newStyle.onload = onloadFunction; }
+	  document.head.appendChild(newStyle);
+	  newStyle.rel  = "stylesheet";
+	  newStyle.type = "text/css";
+        newStyle.media = "screen";
+	  newStyle.href = url;
+	}
+	affixStyleToHead(urlPackages + "css/style.css");
+	</script>
+   <!-- Matomo -->
+   <script type="text/javascript">
+    var _paq = window._paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+    var u="https://kibanalytics.kib.ki.se/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '15']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+    })();
+   </script>
+   <!-- End Matomo Code -->
+   <style> 
+		.sliders {
+		  width:20%;
+		  padding: 1%;
+		  overflow: scroll;
+		  height: 95%;
+		}
+	</style>
+</head>
+<body>
+  <aside class="sliders">
+    <div class="mobileOnly"><p  style="color:red">The visualization may not display properly using smart phones or tablets</p></div>
+    <h1>Map of PubMed (2010-2022)</br>Color by % human</h1>
+    <p>The map shows 12737794 publications. The classification underlying the map is based on 20 million PubMed publications from 1995 onwards and their citation relations (NIH Open Citation Collection). </br>&nbsp;&nbsp;Top level nodes (large, partly transparant nodes) represent research disciplines. Small nodes with solid color represent research specialties. </br>&nbsp;&nbsp;Clicking on a discipline will show the closest related disciplines as well as the specialties within the discipline. Clicking on a specialty will show the closest related specialties as well as the parent discipline. The panel to the right shows attributes for the clicked node as well as a list of underlying clusters (topics if clicking a specialty and specialties if clicking a discipline).</br></br><a href='http://petersjogarde.github.io/pm_classification/Short description of algorithmic classification of Pubmed_v2.docx'>More about the classification (download word-file)</a></br></br>  '% Human' shows the fraction of MeSH terms that are in the Human category. For futher description see <a href='https://icite.od.nih.gov/user_guide?page_id=ug_data' target='_blank'>iCite description of data fields.</a>. Data has been derived from NIH Open Citation Collection.</br></br>Color scale:</br><img src='colorScale.png'  width='240' height='80'></p>
+    <label>Node size: <span id="node_size_value" aria-hidden="true"></span>%
+      <input type="range" min="0" max="400" value="100" class="slider" id="node_size_slider">
+    </label>
+    <label>Edge size: <span id="edge_size_value" aria-hidden="true"></span>%
+      <input type="range" min="0" max="400" value="100" class="slider" id="edge_size_slider">
+    </label>
+    <label>Label size: <span id="label_size_value" aria-hidden="true"></span>%
+      <input type="range" min="0" max="400" value="100" class="slider" id="label_size_slider">
+    </label>
+    <label>Node threshold: <span id="nodethreshold_size_value" aria-hidden="true"></span>
+      <input type="range" min="0" max="50" value="0" class="slider" id="nodethreshold_size_slider">
+    </label>
+    <label>Secondary threshold: <span id="secondarythreshold_size_value" aria-hidden="true"></span>
+      <input type="range" min="0" max="50" value="0" class="slider" id="secondarythreshold_size_slider">
+    </label>
+    <label>Edge threshold: <span id="edgethreshold_size_value" aria-hidden="true"></span>
+      <input type="range" min="0" max="50" value="0" class="slider" id="edgethreshold_size_slider">
+    </label>
+    <label>Label threshold: <span id="labelthreshold_size_value" aria-hidden="true">6</span>
+      <input type="range" min="0" max="6" value="95" class="slider" id="labelthreshold_size_slider">
+    </label>
+    <label><input type="checkbox" id="forceToggle" style="display:none"></label>
+    <label>
+      <input type="checkbox" id="labelOverlap" checked>Show overlapping labels
+    </label>
+    <input type="text" id="awesomplete" aria-label="Search nodes" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Search nodes">
+				<p>Node size: Number of publications (relative to clusters at same level)<p><p>Edge size: Citation relations (normalized to cluster sizes)<p><p>Color by: % Human<p><p>Updated: 2023-02-21. NIH OCC data from January 2023</p>
+ 			<p>Created by Peter Sjögårde, Karolinska Institutet. contact peter.sjogarde@ki.se</p>
+ 			<p class="disclaimer_bold">Disclaimers:</p>
+     <p class="disclaimer">Certain data in this analysis comes from MEDLINE®/PubMed®, a database of the U.S. National Library of Medicine.</p><p class="disclaimer">Meta data from NIH Open Citation Collection were used in this analysis. iCite; Hutchins, B. Ian; Santangelo, George (2019): iCite Database Snapshots (NIH Open Citation Collection). The NIH Figshare Archive. Collection. <a href="https://doi.org/10.35092/yhjc.c.4586573">https://doi.org/10.35092/yhjc.c.4586573</a></p><p class="disclaimer">This network was visualized with the D3.js.</p>
+    </div>
+  </aside>
+  <aside class="controls">
+    <button class="controls__zoom-in" title="Zoom in" aria-label="Zoom in"></button>
+    <button class="controls__zoom-reset" title="Reset zoom" aria-label="Reset zoom"></button>
+    <button class="controls__zoom-out" title="Zoom out" aria-label="Zoom out"></button>
+    <button class="controls__export-canvas" title="Export image" aria-label="Export image"></button>
+  </aside>
+  <div id="graphDiv"></div>
+  <div class="node-details" role="status" aria-live="assertive"></div>  
+    <script> 
+	function loadError(oError) {
+	  throw new URIError("The script " + oError.target.src + " did not load correctly.");
+	}
+	function affixScriptToBody(url, onloadFunction) {
+	  var newScript = document.createElement("script");
+	  newScript.onerror = loadError;
+	  if (onloadFunction) { newScript.onload = onloadFunction; }
+	  document.body.appendChild(newScript);
+	  newScript.src = url;
+	  newScript.type = "text/javascript";
+	}
+	affixScriptToBody(urlPackages + "js/lib/d3-force.v3.min.js", function() {
+	  affixScriptToBody(urlPackages + "js/lib/d3.v7.min.js", function() {
+		  affixScriptToBody(urlPackages + "js/lib/awesomplete.min.js", function() {
+		   affixScriptToBody(urlPackages + "js/d3network.js", function() {
+		   
+    d3.json("data.json").then(data => {
+      // Invert y values
+      data.nodes.forEach(n => {
+        n.y = n.y * -1;
+      });
+      return data;
+    }).then(data => {
+      d3network(data, {
+        "zoom": [1 / 10, 1000]
+      });
+    });
+ 		 });
+	  });
+	});
+	});
+  </script>
+</body>
+</html>
+
