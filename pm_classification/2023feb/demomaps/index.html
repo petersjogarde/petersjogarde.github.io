@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Maps of biomedical sciences using citation-based classification</title>
+    <meta name="robots" content="noindex">
+    <meta charset="utf-8" />
+ 		 <!-- Get url from file !-->
+    <script src="urlConfig.js" type="text/javascript" language="javascript"></script>
+
+
+  		<!-- Get packages -->
+  		<script>
+  		function loadError(oError) {
+  		  throw new URIError("The script " + oError.target.src + " did not load correctly.");
+  		}
+
+  		function affixStyleToHead(url, onloadFunction) {
+  		  var newStyle = document.createElement("link");
+  		  newStyle.onerror = loadError;
+  		  if (onloadFunction) { newStyle.onload = onloadFunction; }
+  		  document.head.appendChild(newStyle);
+  		  newStyle.rel  = "stylesheet";
+  		  newStyle.type = "text/css";
+            newStyle.media = "screen";
+  		  newStyle.href = url;
+  		}
+  		affixStyleToHead("style_front_page.css");
+  		</script>
+
+    <link rel="stylesheet" href="https://tools.kib.ki.se/userfiles/open-sans/open-sans.css">
+    <link rel="stylesheet" href="https://tools.kib.ki.se/userfiles/mundo-sans/mundo.css">
+
+    <!-- Matomo -->
+    <script type="text/javascript">
+     var _paq = window._paq || [];
+     /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+     _paq.push(['trackPageView']);
+     _paq.push(['enableLinkTracking']);
+     (function() {
+     var u="https://kibanalytics.kib.ki.se/";
+     _paq.push(['setTrackerUrl', u+'matomo.php']);
+     _paq.push(['setSiteId', '4']);
+     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+     g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+     })();
+    </script>
+    <!-- End Matomo Code -->
+    <style>
+    
+    </style>
+  </head>
+  <body>
+    <div class="main">
+    <h1>Maps of biomedical sciences using citation-based classification</h1>
+    <p>This page shows some example maps based on citation clusters in PubMed resulting from my PhD project <a href="https://openarchive.ki.se/xmlui/handle/10616/48640?_ga=2.184059942.1403337595.1684931176-2118895765.1655297761&pk_vid=68a2770689104e6d1684931277918178">"Mapping the structure of science through clustering in citation networks : granularity, labeling and visualization"</a>. 
+	</br>The classification of about 20 million publications in PubMed is available in <a href="https://figshare.com/collections/PubMed_Classification/5610971" target="_blank">figshare</a>. See the thesis and figshare collection for further information.</p>
+	<p><h2>Base map</h2></p>
+	  <p><a href="basemap/index.html" target="_blank">PubMed map (2018-2023)</a></p>
+	<p><h2>Karolinska institutet</h2></p>
+	  <p><a href="ki_clincal/index.html" target="_blank">Karolinska institutet - by clinical orientation (2018-2023)</a></p>
+	  <p><a href="ki_cell/index.html" target="_blank">Karolinska institutet - % Molecular or Cellular publications  (2018-2023)</a></p>
+	<p><h2>Karolinska institutet by example research areas</h2></p>
+	  <p><a href="area_Epidemiology/index.html" target="_blank">Epidemiology (2018-2023)</a></p>
+	  <p><a href="area_Cancer/index.html" target="_blank">Cancer (2018-2023)</a></p>
+	  <p><a href="area_Public_Health/index.html" target="_blank">Public Health (2018-2023)</a></p>
+	  <p><a href="area_Circulation/index.html" target="_blank">Circulation (2018-2023)</a></p>
+	  <p><a href="area_Endocrinology/index.html" target="_blank">Endocrinology (2018-2023)</a></p>
+	  <p><a href="area_Neuroscience/index.html" target="_blank">Neuroscience (2018-2023)</a></p>
+	  <p><a href="area_Infection/index.html" target="_blank">Infection (2018-2023)</a></p>
+	  <p><a href="area_Inflammation/index.html" target="_blank">Inflammation (2018-2023)</a></p>
+	  <p><a href="area_Reproduction/index.html" target="_blank">Reproduction (2018-2023)</a></p>
+	  <p><a href="area_HealthCare/index.html" target="_blank">Health Care (2018-2023)</a></p>
+	  <p><h2>Sweden</h2></p>
+	  <p><a href="sweden/index.html" target="_blank">Swedish biomedical publications (2018-2023)</a></p>
+	<p><h2>Journals</h2></p>
+	  <p><a href="journal_Nature/index.html" target="_blank">Nature - color by age or publications (2000-2023)</a></p>
+	  <p><a href="journal_Lancet/index.html" target="_blank">Lancet - color by age or publications (2000-2023)</a></p>
+	  <p><a href="journal_Science/index.html" target="_blank">Science - color by age or publications (2000-2023)</a></p>
+	  <p><a href="journal_PNAS/index.html" target="_blank">PNAS - color by age or publications (2000-2023)</a></p>
+     <h2 class="smallHeading">Disclaimers</h2>
+     <p class="smaller">Meta data from NIH Open Citation Collection were used in this analysis. iCite; Hutchins, B. Ian; Santangelo, George (2019): iCite Database Snapshots (NIH Open Citation Collection). The NIH Figshare Archive. Collection. https://doi.org/10.35092/yhjc.c.4586573</p>
+     <p class="smaller">Certain data in this analysis comes from MEDLINE®/PubMed®, a database of the U.S. National Library of Medicine.</p>
+     <p class="smaller">Created by Peter Sjögårde, Karolinska Institutet. contact peter.sjogarde@ki.se</p>
+	 <p class="smaller">Date of data extraction: 2023-05-24</p>
+    </div>
+  </body>
+</html>
