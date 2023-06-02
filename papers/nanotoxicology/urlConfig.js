@@ -1,1 +1,1 @@
-var urlPackages = "https://petersjogarde.github.io/packages/v1/";
+var urlPackages = "https://petersjogarde.github.io/packages/d3/v1/";
