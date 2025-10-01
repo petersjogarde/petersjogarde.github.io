@@ -1,0 +1,74 @@
+html {
+  font-size: 100%;
+  color: #232323;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.5;
+  font-size: 16px;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  background-color: #e8e8e8;
+  background-image: url("aula_background.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right top; 
+}
+  
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Mundo Sans W01 Medium", Helvetica, sans-serif;
+  font-weight: 500;
+  text-transform: none;
+  color: #000;
+}
+
+h3, h4, h5, h6 {
+  font-family: "Mundo Sans W01", Helvetica, sans-serif;
+}
+
+.ingress {
+  font-size: 1.2em;
+}
+
+a, a:hover {
+  color: #870052;
+}
+
+.main {
+	/* Default background color*/
+	background: rgb(255, 255, 255);
+	/* Opacity in different browsers and versions */
+	
+	/* IE 8 & 9*/	
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	
+	/* This works in IE 8 & 9 too */
+	/* ... but also 5, 6, 7 */
+	filter: alpha(opacity=90);
+	
+	/* Older than Firefox 0.9 */
+	-moz-opacity:0.9;
+	
+	/* Safari 1.x (pre WebKit!) */
+	-khtml-opacity: 0.9;
+    
+	/* Firefox 0.9+, Safari 2?, Chrome any?
+	/* Opera 9+, IE 9+ */
+	opacity: 0.9;
+	
+	width: 40%;
+	padding: 10px 10px;
+	margin: 20px 100px;
+}
+
+.smallHeading {
+	font-size: 14px;
+	padding-top: 50px;
+}
+
+.smaller {
+	font-size: 10px;
+	padding: 1px;
+}
+

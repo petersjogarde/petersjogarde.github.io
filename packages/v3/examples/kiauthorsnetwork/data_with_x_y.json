@@ -1,0 +1,2494 @@
+{
+ "nodes": [
+  {
+   "name": "1",
+   "label": "Lars Lund",
+   "# Publ.": 32,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30297189+30049496+30553905+30502009+30474896+30402887+30092697+30852236+30776920+30776923+31005415+30698317+30536044+30903545+30989768+31243866+31176524+31123846+31207140+31343108+31094284+31410955+31621954+31100109+30085251+31724475+31693247+31127678+31558270+30295807+31408153+30980205'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 5.6569,
+   "size": 5.6569,
+   "color": "#870052",
+   "x": -341.5653,
+   "y": 433.7045,
+   "id": "0"
+  },
+  {
+   "name": "2",
+   "label": "Jonas Ludvigsson",
+   "# Publ.": 24,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=29751165+30342031+29321166+30714185+30618330+30730858+29788069+30700170+30929112+30239740+30181535+30472773+30983010+31009941+30389589+30608542+30551185+31498717+31494100+30529732+31424531+31711471+30916332+30685366'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 4.899,
+   "size": 4.899,
+   "color": "#870052",
+   "x": 201.5857,
+   "y": -441.4133,
+   "id": "1"
+  },
+  {
+   "name": "3",
+   "label": "Ola Olén",
+   "# Publ.": 22,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=29751165+30661558+30342031+30478702+30730858+29788069+30700170+30929112+30181535+30389589+31012495+30679293+30551185+31498717+30502501+31494100+30529732+31424531+31711471+30916332+30685366'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 4.6904,
+   "size": 4.6904,
+   "color": "#870052",
+   "x": 247.3835,
+   "y": -398.5501,
+   "id": "2"
+  },
+  {
+   "name": "4",
+   "label": "Cecilia Linde",
+   "# Publ.": 18,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30049496+30406939+30704421+30816197+30776920+30761919+30629342+31005415+31157387+31207140+29506125+31476893+31711387+31933665+31706879+30935899+31537334+30829589'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 4.2426,
+   "size": 4.2426,
+   "color": "#870052",
+   "x": -370.0448,
+   "y": 442.1659,
+   "id": "3"
+  },
+  {
+   "name": "5",
+   "label": "Johan Askling",
+   "# Publ.": 18,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30253056+30342031+30730858+30700170+30422723+30389589+31138285+30787006+30612115+30551185+30898837+30668875+31431486+30916332+31749988+31798956+31413868'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 4.2426,
+   "size": 4.2426,
+   "color": "#870052",
+   "x": 247.4835,
+   "y": -307.0428,
+   "id": "4"
+  },
+  {
+   "name": "6",
+   "label": "Lars Maegdefessel",
+   "# Publ.": 18,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30763215+30781475+30665614+30586743+30731493+30107531+29909014+31043745+30894016+31350345+31326400+31035303+31109707+30792063+31389987+31272099+31410392+30847421'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 4.2426,
+   "size": 4.2426,
+   "color": "#870052",
+   "x": -576.6726,
+   "y": 190.9346,
+   "id": "5"
+  },
+  {
+   "name": "7",
+   "label": "Lars Rydén",
+   "# Publ.": 18,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30058959+30353266+30632867+30805659+30739508+30567457+31189509+31189511+31054846+31182493+31152740+30445605+31510769+31722562+31766912+31766918+31766917+31766914'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 4.2426,
+   "size": 4.2426,
+   "color": "#870052",
+   "x": -201.1454,
+   "y": 454.4289,
+   "id": "6"
+  },
+  {
+   "name": "8",
+   "label": "Anders Hjern",
+   "# Publ.": 17,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30866881+29644929+30970037+30934717+31134834+30378531+30334101+31168626+30937545+31683963+29807485+30916332+31274154+30815582+30957030+31193892'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 4.1231,
+   "size": 4.1231,
+   "color": "#870052",
+   "x": 277.1327,
+   "y": -498.4404,
+   "id": "7"
+  },
+  {
+   "name": "9",
+   "label": "Elisabet Svenungsson",
+   "# Publ.": 17,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30740097+30707351+30777133+30459414+30742448+30070598+31036046+31156624+30926722+31182493+31103269+31375628+31092409+31300459+30770760+31655302+31843005'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 4.1231,
+   "size": 4.1231,
+   "color": "#870052",
+   "x": -66.2154,
+   "y": 340.2949,
+   "id": "8"
+  },
+  {
+   "name": "10",
+   "label": "Iva Gunnarsson",
+   "# Publ.": 16,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30740097+30571926+30742665+30655025+30707351+30777133+30459414+30742448+30593436+31036046+31156624+30055091+31103269+31300459+31783909+31843005'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 4,
+   "size": 4,
+   "color": "#870052",
+   "x": 5.0034,
+   "y": 325.4313,
+   "id": "9"
+  },
+  {
+   "name": "11",
+   "label": "Lars Klareskog",
+   "# Publ.": 16,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30662440+30152202+30152126+30277007+31072030+30612115+30936065+30742363+31474319+30668875+31481351+31882654+31168404+31565241+31413868+31168412'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 4,
+   "size": 4,
+   "color": "#870052",
+   "x": 119.9482,
+   "y": 67.6309,
+   "id": "10"
+  },
+  {
+   "name": "12",
+   "label": "Per-Johan Jakobsson",
+   "# Publ.": 16,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=29852297+30777133+30742448+30867043+31156624+31231226+31231223+31253980+30922080+30349011+31474319+30770760+30933389+31419481+31404942+31562624'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 4,
+   "size": 4,
+   "color": "#870052",
+   "x": -118.7889,
+   "y": 274.8425,
+   "id": "11"
+  },
+  {
+   "name": "13",
+   "label": "Magnus Bäck",
+   "# Publ.": 15,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30678761+30703872+30846099+30416029+30534957+30934548+30536044+30846875+31197872+31228191+30597013+31696250+31419481+30713844+31817859'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3.873,
+   "size": 3.873,
+   "color": "#870052",
+   "x": -381.0603,
+   "y": 213.2491,
+   "id": "12"
+  },
+  {
+   "name": "14",
+   "label": "Jesper Tegnér",
+   "# Publ.": 14,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30978178+31004050+31146783+31053557+33267274+30882958+31295923+31427643+31434983+31672995+31692248+31849937+31682608+31541920'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3.7417,
+   "size": 3.7417,
+   "color": "#870052",
+   "x": -237.385,
+   "y": 126.494,
+   "id": "13"
+  },
+  {
+   "name": "15",
+   "label": "Scott Montgomery",
+   "# Publ.": 14,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30339272+30376533+30333220+31123398+29618498+30718261+30790271+30461522+31289842+31140196+31675922+31494341+31817385+31887199'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3.7417,
+   "size": 3.7417,
+   "color": "#870052",
+   "x": -124.4542,
+   "y": -197.0639,
+   "id": "14"
+  },
+  {
+   "name": "16",
+   "label": "Anna Andreasson",
+   "# Publ.": 13,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30394943+30714185+30840633+30839393+31012370+30761471+31343467+28810478+31453726+31405919+31700638'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3.6056,
+   "size": 3.6056,
+   "color": "#870052",
+   "x": 114.117,
+   "y": -412.375,
+   "id": "15"
+  },
+  {
+   "name": "17",
+   "label": "Karin Ekström Smedby",
+   "# Publ.": 13,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30506671+30262567+30342031+30726176+30368947+30422723+31167589+31217338+30666628+31324155+31819656+30916332+31264807'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3.6056,
+   "size": 3.6056,
+   "color": "#870052",
+   "x": 357.4121,
+   "y": -392.6931,
+   "id": "16"
+  },
+  {
+   "name": "18",
+   "label": "Ronald van Vollenhoven",
+   "# Publ.": 13,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30260261+30375754+30571926+30647177+30879707+30709958+30926722+30044551+30753683+30771242+30079582+30898837+31244356'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3.6056,
+   "size": 3.6056,
+   "color": "#870052",
+   "x": 197.4381,
+   "y": 226.8129,
+   "id": "17"
+  },
+  {
+   "name": "19",
+   "label": "Ylva Trolle Lagerros",
+   "# Publ.": 13,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30316879+29790200+30845949+30618330+30994459+30884441+30955156+31366047+30726916+32009823+31009793+31363756+31292615'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3.6056,
+   "size": 3.6056,
+   "color": "#870052",
+   "x": -16.4323,
+   "y": -159.6762,
+   "id": "18"
+  },
+  {
+   "name": "20",
+   "label": "Gianluigi Savarese",
+   "# Publ.": 12,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30553905+30092697+30852236+31005415+30698317+31146874+31207140+31094284+31119266+31476893+30073881+30980205'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3.4641,
+   "size": 3.4641,
+   "color": "#870052",
+   "x": -356.0324,
+   "y": 449.0957,
+   "id": "19"
+  },
+  {
+   "name": "21",
+   "label": "Olof Stephansson",
+   "# Publ.": 12,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=29896923+30516650+30714185+30500109+30912837+31009941+30350424+31188526+30767210+31636163+31748223+31274154'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3.4641,
+   "size": 3.4641,
+   "color": "#870052",
+   "x": 63.2401,
+   "y": -475.4993,
+   "id": "20"
+  },
+  {
+   "name": "22",
+   "label": "Per Eriksson",
+   "# Publ.": 12,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30455415+30280445+30482443+30527531+30934548+30786239+30820038+31271701+31206532+31081038+31533023+31921896'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3.4641,
+   "size": 3.4641,
+   "color": "#870052",
+   "x": -495.3247,
+   "y": 136.1936,
+   "id": "21"
+  },
+  {
+   "name": "23",
+   "label": "Sven Cnattingius",
+   "# Publ.": 12,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30621950+30516650+30239740+30472773+31118817+31064770+31138157+31072859+31199800+31801789+31467051+31887199'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3.4641,
+   "size": 3.4641,
+   "color": "#870052",
+   "x": -87.247,
+   "y": -394.042,
+   "id": "22"
+  },
+  {
+   "name": "24",
+   "label": "Ingrid Lundberg",
+   "# Publ.": 11,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30451307+30219767+29999244+30690633+31135059+31375628+31204143+30770504+30877220+31564297+31843005'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3.3166,
+   "size": 3.3166,
+   "color": "#870052",
+   "x": -11.6227,
+   "y": 177.1937,
+   "id": "23"
+  },
+  {
+   "name": "25",
+   "label": "Shahram Bahmanyar",
+   "# Publ.": 11,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30774448+30376533+31026663+30933417+31118134+31373239+30073690+31674882+31433305+31887199+31709405'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3.3166,
+   "size": 3.3166,
+   "color": "#870052",
+   "x": -66.0032,
+   "y": -212.4958,
+   "id": "24"
+  },
+  {
+   "name": "26",
+   "label": "Vivianne Malmström",
+   "# Publ.": 11,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30451307+30662440+30152202+30152126+30277007+30915067+30593436+31019059+31481351+31831833+31882654'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3.3166,
+   "size": 3.3166,
+   "color": "#870052",
+   "x": 120.714,
+   "y": 137.572,
+   "id": "25"
+  },
+  {
+   "name": "27",
+   "label": "Daniel Ketelhuth",
+   "# Publ.": 10,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30534957+30917339+30894016+31259915+31434983+31434316+28899580+30847484+31228191+31801632'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3.1623,
+   "size": 3.1623,
+   "color": "#870052",
+   "x": -462.3646,
+   "y": 206.9318,
+   "id": "26"
+  },
+  {
+   "name": "28",
+   "label": "Johan Reutfors",
+   "# Publ.": 10,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30707702+30780117+30830574+31118817+30938020+31078359+30927284+30073690+31583010+31056695'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3.1623,
+   "size": 3.1623,
+   "color": "#870052",
+   "x": 34.9502,
+   "y": -315.588,
+   "id": "27"
+  },
+  {
+   "name": "30",
+   "label": "Leif Svensson",
+   "# Publ.": 10,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30399483+30707745+30961651+31063573+30929457+31028826+30327393+31470100+31330199+31753873'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3.1623,
+   "size": 3.1623,
+   "color": "#870052",
+   "x": 704.5799,
+   "y": 0.0103,
+   "id": "29"
+  },
+  {
+   "name": "31",
+   "label": "Anders Franco-Cereceda",
+   "# Publ.": 9,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30455415+30280445+30482443+30527531+30934548+31061061+30820038+31533023+31921896'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3,
+   "size": 3,
+   "color": "#870052",
+   "x": -485.366,
+   "y": 123.0229,
+   "id": "30"
+  },
+  {
+   "name": "32",
+   "label": "Anna Färnert",
+   "# Publ.": 9,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30696449+30722809+30939125+31156653+31136585+31117156+31175365+31744845+31408187'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3,
+   "size": 3,
+   "color": "#870052",
+   "x": 188.1369,
+   "y": -65.6726,
+   "id": "31"
+  },
+  {
+   "name": "33",
+   "label": "Barbro Kjellström",
+   "# Publ.": 9,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30632867+30139595+31182493+31176524+31123846+31423450+30815471+31192407+31192423'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3,
+   "size": 3,
+   "color": "#870052",
+   "x": -254.7409,
+   "y": 462.289,
+   "id": "32"
+  },
+  {
+   "name": "35",
+   "label": "Gustaf Edgren",
+   "# Publ.": 9,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30267009+30575964+30520046+29148106+31184739+31061061+31247015+31602669+31796735'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3,
+   "size": 3,
+   "color": "#870052",
+   "x": -468.9651,
+   "y": 84.7326,
+   "id": "34"
+  },
+  {
+   "name": "36",
+   "label": "Helle Kieler",
+   "# Publ.": 9,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30774448+31026663+31078359+31272510+31053591+31373239+31203660+31798900+31433305'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3,
+   "size": 3,
+   "color": "#870052",
+   "x": -34.434,
+   "y": -262.9319,
+   "id": "35"
+  },
+  {
+   "name": "37",
+   "label": "Jon Lampa",
+   "# Publ.": 9,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=29852297+30223011+30500425+30247264+31260948+31363804+31228612+30770760+31703790'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3,
+   "size": 3,
+   "color": "#870052",
+   "x": -148.8869,
+   "y": 344.3922,
+   "id": "36"
+  },
+  {
+   "name": "39",
+   "label": "Lars Alfredsson",
+   "# Publ.": 9,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30376533+31375628+30742363+31474319+31819081+31363756+31168404+31413868+31168412'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3,
+   "size": 3,
+   "color": "#870052",
+   "x": 15.7232,
+   "y": 20.0701,
+   "id": "38"
+  },
+  {
+   "name": "40",
+   "label": "Magnus Sköld",
+   "# Publ.": 9,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30547334+31133680+31126291+31306950+31434752+31581603+31771560+31681476+31673362'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3,
+   "size": 3,
+   "color": "#870052",
+   "x": -274.1945,
+   "y": 357.7255,
+   "id": "39"
+  },
+  {
+   "name": "41",
+   "label": "Martina Persson",
+   "# Publ.": 9,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30621950+30698864+30687927+31072859+30962219+31127057+31539391+31675922+31192430'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3,
+   "size": 3,
+   "color": "#870052",
+   "x": -135.3078,
+   "y": -406.7338,
+   "id": "40"
+  },
+  {
+   "name": "42",
+   "label": "Martin Neovius",
+   "# Publ.": 9,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30707702+30342031+30929112+31009941+30102631+30551185+31279778+31056695+30916332'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3,
+   "size": 3,
+   "color": "#870052",
+   "x": 208.5044,
+   "y": -399.2928,
+   "id": "41"
+  },
+  {
+   "name": "43",
+   "label": "Per Nordberg",
+   "# Publ.": 9,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30629991+30961651+31063573+30929457+31028826+30327393+31470100+31330199+31753873'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3,
+   "size": 3,
+   "color": "#870052",
+   "x": 691.5857,
+   "y": 8.8183,
+   "id": "42"
+  },
+  {
+   "name": "44",
+   "label": "Rolf Hultcrantz",
+   "# Publ.": 9,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30253056+29968937+30788125+30907196+30471458+30983010+30897387+31453745+30554159'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3,
+   "size": 3,
+   "color": "#870052",
+   "x": 148.8187,
+   "y": -355.9573,
+   "id": "43"
+  },
+  {
+   "name": "45",
+   "label": "Ulf Hedin",
+   "# Publ.": 9,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30452556+30665614+30586743+30107531+30894016+31350345+31109707+31410392+31312755'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3,
+   "size": 3,
+   "color": "#870052",
+   "x": -570.1406,
+   "y": 208.5234,
+   "id": "44"
+  },
+  {
+   "name": "46",
+   "label": "Adnane Achour",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30420782+30451307+30808808+30593436+30835561+30939125+31616424+31710640'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": 74.6745,
+   "y": 111.8668,
+   "id": "45"
+  },
+  {
+   "name": "48",
+   "label": "Anders Ekbom",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30788125+30342031+30730858+30700170+30808622+30073690+30554159+30916332'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": 202.3242,
+   "y": -348.4978,
+   "id": "47"
+  },
+  {
+   "name": "49",
+   "label": "Anna-Karin Elisabeth Edstedt Bonamy",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30136374+30621950+29885776+30508225+30276861+30776793+31036481+31489446'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": -104.8217,
+   "y": -477.5904,
+   "id": "48"
+  },
+  {
+   "name": "50",
+   "label": "Fredrik Piehl",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30721167+30307034+30593436+30376533+31146783+31053557+30762259+31427643'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": -140.807,
+   "y": 75.7101,
+   "id": "49"
+  },
+  {
+   "name": "51",
+   "label": "Göran K Hansson",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30703872+30452556+30894016+31420554+31537270+31081038+31312755+30847421'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": -546.7035,
+   "y": 188.4787,
+   "id": "50"
+  },
+  {
+   "name": "52",
+   "label": "Helena Idborg",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30777133+30742448+31156624+31231223+30922080+30770760+30933389+31419481'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": -155.749,
+   "y": 308.0862,
+   "id": "51"
+  },
+  {
+   "name": "53",
+   "label": "Ioannis Parodis",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30571926+30742665+30593436+30959218+30055091+31783909+31157891'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": 109.1996,
+   "y": 290.1404,
+   "id": "52"
+  },
+  {
+   "name": "54",
+   "label": "Jacob Hollenberg",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30399483+30961651+31063573+30929457+31028826+30327393+31470100+31753873'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": 711.5332,
+   "y": 13.4293,
+   "id": "53"
+  },
+  {
+   "name": "55",
+   "label": "Jan Hillert",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30578428+30721167+30414299+30376533+31141529+31375628+31704791+31887199'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": -87.7083,
+   "y": -70.816,
+   "id": "54"
+  },
+  {
+   "name": "56",
+   "label": "Lena Brandt",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30780117+30830574+30955156+30938020+31078359+30073690+31583010+31203660'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": 2.3117,
+   "y": -281.7911,
+   "id": "55"
+  },
+  {
+   "name": "57",
+   "label": "Linda Mellbin",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30309264+30805659+30739508+30567457+31104331+31473600+31766912+31766914'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": -219.753,
+   "y": 457.0739,
+   "id": "56"
+  },
+  {
+   "name": "58",
+   "label": "Ljubica Matic",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30452556+30665614+30586743+30107531+30894016+31350345+31109707+31410392'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": -586.8551,
+   "y": 206.6217,
+   "id": "57"
+  },
+  {
+   "name": "59",
+   "label": "Marie Wahren-Herlenius",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30958262+30808622+31160341+30620419+31127862+31464664+31609447+31843005'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": 95.3943,
+   "y": 217.1145,
+   "id": "58"
+  },
+  {
+   "name": "60",
+   "label": "Matteo Bottai",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30714185+30368947+30976789+31300016+31119358+31412292+31175365+31774875'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": 278.9106,
+   "y": -245.6786,
+   "id": "59"
+  },
+  {
+   "name": "61",
+   "label": "Mikael Norman",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=28889774+30136374+30578529+30912837+30239740+30472773+29885776+30776793'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": -68.5981,
+   "y": -484.8197,
+   "id": "60"
+  },
+  {
+   "name": "62",
+   "label": "Peter Thelin Schmidt",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30711964+30839393+31012495+31453726+31519602+30821124+31700638+31366515'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": 112.4292,
+   "y": -438.0875,
+   "id": "61"
+  },
+  {
+   "name": "63",
+   "label": "Saedis Saevarsdottir",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30260261+30777458+30709958+30420245+31072030+31036624+31244356+31413868'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": 209.7901,
+   "y": 150.8034,
+   "id": "62"
+  },
+  {
+   "name": "64",
+   "label": "Therese Djärv",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30125348+30629991+30961651+30973639+30929457+30234557+31412292+31551383'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": 670.6795,
+   "y": -10.5871,
+   "id": "63"
+  },
+  {
+   "name": "65",
+   "label": "Agneta Zickert",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30742665+30655025+30593436+31036046+30055091+31783909+31843005'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": 57.7617,
+   "y": 286.582,
+   "id": "64"
+  },
+  {
+   "name": "66",
+   "label": "Aikaterini Chatzidionysiou",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30260261+30571926+31214621+31157891+32007401+31413870'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": 180.1571,
+   "y": 287.969,
+   "id": "65"
+  },
+  {
+   "name": "67",
+   "label": "Anca Catrina",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30152202+30886104+31019059+31072030+31481351+31831833+31882654'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": 163.0156,
+   "y": 105.0481,
+   "id": "66"
+  },
+  {
+   "name": "68",
+   "label": "Anna-Karin Wikström",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=29896923+31138157+30767210+30901074+31675922+31748223+31774875'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": -28.5071,
+   "y": -408.2402,
+   "id": "67"
+  },
+  {
+   "name": "69",
+   "label": "Catarina Almqvist Malmros",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30341960+30578428+29321166+31271484+31424531+31818313+31887128'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": 114.415,
+   "y": -272.5443,
+   "id": "68"
+  },
+  {
+   "name": "70",
+   "label": "Craig Wheelock",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30508568+31156624+30578872+31231223+31434983+31581603+31670074'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": -242.4549,
+   "y": 287.9691,
+   "id": "69"
+  },
+  {
+   "name": "71",
+   "label": "David Gomez-Cabrero",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30978178+31146783+31053557+30882958+31427643+31672995+31682608'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": -225.0414,
+   "y": 110.2915,
+   "id": "70"
+  },
+  {
+   "name": "72",
+   "label": "Hannes Hagström",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30253056+30714185+30471458+31012370+30761471+31700638+31009793'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": 102.9174,
+   "y": -377.2826,
+   "id": "71"
+  },
+  {
+   "name": "73",
+   "label": "Ingrid Glimelius",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30506671+30726176+30368947+31167589+31163029+30666628+31264807'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": 413.7142,
+   "y": -373.2234,
+   "id": "72"
+  },
+  {
+   "name": "74",
+   "label": "Johan Grunewald",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30742337+32476931+31052352+31273209+31000677+31303497+31819081'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": -66.7873,
+   "y": 271.816,
+   "id": "73"
+  },
+  {
+   "name": "75",
+   "label": "John Pernow",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30268384+30553823+30905171+31427970+30590395+30526321+31198931'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": -198.3334,
+   "y": 396.5946,
+   "id": "74"
+  },
+  {
+   "name": "76",
+   "label": "Leonid Padyukov",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30647177+30936065+31375628+31036624+31474319+31819081+31843005'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": 39.1893,
+   "y": 195.7014,
+   "id": "75"
+  },
+  {
+   "name": "77",
+   "label": "Magnus Björkholm",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30692519+30738744+31054465+30906990+30666628+31318385+31536656'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": 462.7042,
+   "y": -371.3079,
+   "id": "76"
+  },
+  {
+   "name": "78",
+   "label": "Martin Jonsson",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30399483+30629991+31063573+30929457+30327393+31470100+31330199'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": 698.5129,
+   "y": 23.4256,
+   "id": "77"
+  },
+  {
+   "name": "79",
+   "label": "Michael Sachs",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30342031+30730858+29788069+30700170+30389589+30916332'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": 277.8105,
+   "y": -404.8303,
+   "id": "78"
+  },
+  {
+   "name": "80",
+   "label": "Monika Hansson",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30152202+30504445+30277007+31474319+31723356+31882654+31565241'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": 132.0239,
+   "y": 102.9466,
+   "id": "79"
+  },
+  {
+   "name": "81",
+   "label": "Peder Sörensson",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30268384+30503881+32476931+31132211+31072836+31104331+31730498'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": -187.6,
+   "y": 410.3924,
+   "id": "80"
+  },
+  {
+   "name": "82",
+   "label": "Rino Bellocco",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30316879+30678761+29790200+30884441+32009823+31363756+31292615'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": -56.1464,
+   "y": -116.3254,
+   "id": "81"
+  },
+  {
+   "name": "84",
+   "label": "Sandra Eloranta",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30055939+30726176+30368947+31046737+30666628+31264807'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": 427.2926,
+   "y": -358.4872,
+   "id": "83"
+  },
+  {
+   "name": "85",
+   "label": "Tomas Jernberg",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30503881+30661856+31434752+31303394+31473600+30085251+31558270'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": -280.2568,
+   "y": 424.9635,
+   "id": "84"
+  },
+  {
+   "name": "29",
+   "label": "Kilian Eyerich",
+   "# Publ.": 10,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30414395+30456602+29856508+30787167+30408667+30422337+30879102+30712317+31465343+31468073'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3.1623,
+   "size": 3.1623,
+   "color": "#870052",
+   "x": 832.5306,
+   "y": 462.289,
+   "id": "28"
+  },
+  {
+   "name": "34",
+   "label": "Diego Hernan Giunta",
+   "# Publ.": 9,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=31095161+31063306+31215143+30557229+31487247+31385871+31859964+31062463+30344064'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3,
+   "size": 3,
+   "color": "#870052",
+   "x": 832.5306,
+   "y": 270.1431,
+   "id": "33"
+  },
+  {
+   "name": "38",
+   "label": "Judith Bruchfeld",
+   "# Publ.": 9,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30096332+30717738+31269277+30561569+31651339+31718751+34934812+31205929+30775376'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 3,
+   "size": 3,
+   "color": "#870052",
+   "x": 832.5306,
+   "y": 77.9972,
+   "id": "37"
+  },
+  {
+   "name": "47",
+   "label": "Ana Requena Mendez",
+   "# Publ.": 8,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30683241+30577567+30412245+29759423+30638750+31317761+31558376+31673340'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.8284,
+   "size": 2.8284,
+   "color": "#870052",
+   "x": 832.5306,
+   "y": -114.1486,
+   "id": "46"
+  },
+  {
+   "name": "83",
+   "label": "Rona J Strawbridge",
+   "# Publ.": 7,
+   "PubMed": "<a target='_blank' href='https://www.ncbi.nlm.nih.gov/pubmed/?term=30745170+31089183+31194737+31028125+31607513+31748543+31797917'>Show publ. in PubMed<\/a>",
+   "p_sqrt": 2.6458,
+   "size": 2.6458,
+   "color": "#870052",
+   "x": 832.5306,
+   "y": -306.2945,
+   "id": "82"
+  }
+ ],
+ "links": [
+  {
+   "source": "1",
+   "target": "2",
+   "weight": 16,
+   "color": "#191919FF"
+  },
+  {
+   "source": "8",
+   "target": "9",
+   "weight": 10,
+   "color": "#6B6B6BCA"
+  },
+  {
+   "source": "0",
+   "target": "19",
+   "weight": 8,
+   "color": "#868686B4"
+  },
+  {
+   "source": "11",
+   "target": "51",
+   "weight": 8,
+   "color": "#868686B4"
+  },
+  {
+   "source": "21",
+   "target": "30",
+   "weight": 8,
+   "color": "#868686B4"
+  },
+  {
+   "source": "29",
+   "target": "42",
+   "weight": 8,
+   "color": "#868686B4"
+  },
+  {
+   "source": "29",
+   "target": "53",
+   "weight": 8,
+   "color": "#868686B4"
+  },
+  {
+   "source": "44",
+   "target": "57",
+   "weight": 8,
+   "color": "#868686B4"
+  },
+  {
+   "source": "2",
+   "target": "78",
+   "weight": 7,
+   "color": "#949494A9"
+  },
+  {
+   "source": "5",
+   "target": "44",
+   "weight": 7,
+   "color": "#949494A9"
+  },
+  {
+   "source": "5",
+   "target": "57",
+   "weight": 7,
+   "color": "#949494A9"
+  },
+  {
+   "source": "9",
+   "target": "64",
+   "weight": 7,
+   "color": "#949494A9"
+  },
+  {
+   "source": "13",
+   "target": "70",
+   "weight": 7,
+   "color": "#949494A9"
+  },
+  {
+   "source": "42",
+   "target": "53",
+   "weight": 7,
+   "color": "#949494A9"
+  },
+  {
+   "source": "1",
+   "target": "4",
+   "weight": 6,
+   "color": "#A2A2A29C"
+  },
+  {
+   "source": "1",
+   "target": "78",
+   "weight": 6,
+   "color": "#A2A2A29C"
+  },
+  {
+   "source": "2",
+   "target": "4",
+   "weight": 6,
+   "color": "#A2A2A29C"
+  },
+  {
+   "source": "10",
+   "target": "25",
+   "weight": 6,
+   "color": "#A2A2A29C"
+  },
+  {
+   "source": "16",
+   "target": "72",
+   "weight": 6,
+   "color": "#A2A2A29C"
+  },
+  {
+   "source": "18",
+   "target": "81",
+   "weight": 6,
+   "color": "#A2A2A29C"
+  },
+  {
+   "source": "27",
+   "target": "55",
+   "weight": 6,
+   "color": "#A2A2A29C"
+  },
+  {
+   "source": "29",
+   "target": "77",
+   "weight": 6,
+   "color": "#A2A2A29C"
+  },
+  {
+   "source": "42",
+   "target": "77",
+   "weight": 6,
+   "color": "#A2A2A29C"
+  },
+  {
+   "source": "1",
+   "target": "41",
+   "weight": 5,
+   "color": "#AFAFAF8F"
+  },
+  {
+   "source": "4",
+   "target": "78",
+   "weight": 5,
+   "color": "#AFAFAF8F"
+  },
+  {
+   "source": "6",
+   "target": "56",
+   "weight": 5,
+   "color": "#AFAFAF8F"
+  },
+  {
+   "source": "9",
+   "target": "52",
+   "weight": 5,
+   "color": "#AFAFAF8F"
+  },
+  {
+   "source": "10",
+   "target": "38",
+   "weight": 5,
+   "color": "#AFAFAF8F"
+  },
+  {
+   "source": "10",
+   "target": "79",
+   "weight": 5,
+   "color": "#AFAFAF8F"
+  },
+  {
+   "source": "25",
+   "target": "66",
+   "weight": 5,
+   "color": "#AFAFAF8F"
+  },
+  {
+   "source": "53",
+   "target": "77",
+   "weight": 5,
+   "color": "#AFAFAF8F"
+  },
+  {
+   "source": "0",
+   "target": "3",
+   "weight": 4,
+   "color": "#BDBDBD80"
+  },
+  {
+   "source": "1",
+   "target": "47",
+   "weight": 4,
+   "color": "#BDBDBD80"
+  },
+  {
+   "source": "2",
+   "target": "41",
+   "weight": 4,
+   "color": "#BDBDBD80"
+  },
+  {
+   "source": "2",
+   "target": "47",
+   "weight": 4,
+   "color": "#BDBDBD80"
+  },
+  {
+   "source": "4",
+   "target": "47",
+   "weight": 4,
+   "color": "#BDBDBD80"
+  },
+  {
+   "source": "8",
+   "target": "11",
+   "weight": 4,
+   "color": "#BDBDBD80"
+  },
+  {
+   "source": "8",
+   "target": "51",
+   "weight": 4,
+   "color": "#BDBDBD80"
+  },
+  {
+   "source": "10",
+   "target": "66",
+   "weight": 4,
+   "color": "#BDBDBD80"
+  },
+  {
+   "source": "15",
+   "target": "71",
+   "weight": 4,
+   "color": "#BDBDBD80"
+  },
+  {
+   "source": "16",
+   "target": "83",
+   "weight": 4,
+   "color": "#BDBDBD80"
+  },
+  {
+   "source": "24",
+   "target": "35",
+   "weight": 4,
+   "color": "#BDBDBD80"
+  },
+  {
+   "source": "47",
+   "target": "78",
+   "weight": 4,
+   "color": "#BDBDBD80"
+  },
+  {
+   "source": "52",
+   "target": "64",
+   "weight": 4,
+   "color": "#BDBDBD80"
+  },
+  {
+   "source": "72",
+   "target": "83",
+   "weight": 4,
+   "color": "#BDBDBD80"
+  },
+  {
+   "source": "3",
+   "target": "19",
+   "weight": 3,
+   "color": "#CACACA6E"
+  },
+  {
+   "source": "4",
+   "target": "10",
+   "weight": 3,
+   "color": "#CACACA6E"
+  },
+  {
+   "source": "4",
+   "target": "16",
+   "weight": 3,
+   "color": "#CACACA6E"
+  },
+  {
+   "source": "4",
+   "target": "41",
+   "weight": 3,
+   "color": "#CACACA6E"
+  },
+  {
+   "source": "9",
+   "target": "11",
+   "weight": 3,
+   "color": "#CACACA6E"
+  },
+  {
+   "source": "9",
+   "target": "51",
+   "weight": 3,
+   "color": "#CACACA6E"
+  },
+  {
+   "source": "13",
+   "target": "49",
+   "weight": 3,
+   "color": "#CACACA6E"
+  },
+  {
+   "source": "15",
+   "target": "61",
+   "weight": 3,
+   "color": "#CACACA6E"
+  },
+  {
+   "source": "17",
+   "target": "62",
+   "weight": 3,
+   "color": "#CACACA6E"
+  },
+  {
+   "source": "20",
+   "target": "67",
+   "weight": 3,
+   "color": "#CACACA6E"
+  },
+  {
+   "source": "25",
+   "target": "79",
+   "weight": 3,
+   "color": "#CACACA6E"
+  },
+  {
+   "source": "38",
+   "target": "75",
+   "weight": 3,
+   "color": "#CACACA6E"
+  },
+  {
+   "source": "42",
+   "target": "63",
+   "weight": 3,
+   "color": "#CACACA6E"
+  },
+  {
+   "source": "44",
+   "target": "50",
+   "weight": 3,
+   "color": "#CACACA6E"
+  },
+  {
+   "source": "48",
+   "target": "60",
+   "weight": 3,
+   "color": "#CACACA6E"
+  },
+  {
+   "source": "49",
+   "target": "70",
+   "weight": 3,
+   "color": "#CACACA6E"
+  },
+  {
+   "source": "52",
+   "target": "65",
+   "weight": 3,
+   "color": "#CACACA6E"
+  },
+  {
+   "source": "0",
+   "target": "32",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "0",
+   "target": "84",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "1",
+   "target": "16",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "1",
+   "target": "20",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "1",
+   "target": "22",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "1",
+   "target": "60",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "1",
+   "target": "68",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "2",
+   "target": "16",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "5",
+   "target": "50",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "6",
+   "target": "32",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "8",
+   "target": "23",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "8",
+   "target": "64",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "8",
+   "target": "75",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "10",
+   "target": "62",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "10",
+   "target": "75",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "11",
+   "target": "36",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "11",
+   "target": "69",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "12",
+   "target": "26",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "14",
+   "target": "24",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "14",
+   "target": "54",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "16",
+   "target": "41",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "16",
+   "target": "47",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "16",
+   "target": "78",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "17",
+   "target": "65",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "22",
+   "target": "40",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "22",
+   "target": "60",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "23",
+   "target": "75",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "24",
+   "target": "54",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "25",
+   "target": "45",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "27",
+   "target": "41",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "29",
+   "target": "63",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "35",
+   "target": "55",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "38",
+   "target": "54",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "41",
+   "target": "47",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "41",
+   "target": "78",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "43",
+   "target": "47",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "43",
+   "target": "71",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "49",
+   "target": "54",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "50",
+   "target": "57",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "51",
+   "target": "69",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "53",
+   "target": "63",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "63",
+   "target": "77",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "66",
+   "target": "79",
+   "weight": 2,
+   "color": "#D8D8D85A"
+  },
+  {
+   "source": "0",
+   "target": "12",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "1",
+   "target": "7",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "1",
+   "target": "15",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "1",
+   "target": "18",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "1",
+   "target": "43",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "1",
+   "target": "59",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "1",
+   "target": "71",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "2",
+   "target": "7",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "2",
+   "target": "61",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "2",
+   "target": "68",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "4",
+   "target": "7",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "4",
+   "target": "17",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "4",
+   "target": "38",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "4",
+   "target": "43",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "4",
+   "target": "62",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "4",
+   "target": "71",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "5",
+   "target": "26",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "6",
+   "target": "8",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "7",
+   "target": "16",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "7",
+   "target": "20",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "7",
+   "target": "41",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "7",
+   "target": "47",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "7",
+   "target": "78",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "8",
+   "target": "17",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "8",
+   "target": "32",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "8",
+   "target": "36",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "8",
+   "target": "38",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "8",
+   "target": "54",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "8",
+   "target": "58",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "8",
+   "target": "69",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "9",
+   "target": "17",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "9",
+   "target": "23",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "9",
+   "target": "25",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "9",
+   "target": "45",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "9",
+   "target": "49",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "9",
+   "target": "58",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "9",
+   "target": "65",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "9",
+   "target": "69",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "9",
+   "target": "75",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "10",
+   "target": "11",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "11",
+   "target": "12",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "11",
+   "target": "38",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "11",
+   "target": "75",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "11",
+   "target": "79",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "12",
+   "target": "21",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "12",
+   "target": "30",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "12",
+   "target": "50",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "12",
+   "target": "51",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "12",
+   "target": "81",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "13",
+   "target": "26",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "13",
+   "target": "69",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "14",
+   "target": "22",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "14",
+   "target": "38",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "14",
+   "target": "40",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "14",
+   "target": "49",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "14",
+   "target": "67",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "15",
+   "target": "20",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "15",
+   "target": "59",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "16",
+   "target": "59",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "16",
+   "target": "76",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "17",
+   "target": "52",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "17",
+   "target": "75",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "18",
+   "target": "38",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "18",
+   "target": "55",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "18",
+   "target": "71",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "20",
+   "target": "22",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "20",
+   "target": "41",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "20",
+   "target": "59",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "20",
+   "target": "60",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "20",
+   "target": "71",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "21",
+   "target": "50",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "22",
+   "target": "24",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "22",
+   "target": "27",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "22",
+   "target": "48",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "22",
+   "target": "54",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "22",
+   "target": "67",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "23",
+   "target": "25",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "23",
+   "target": "38",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "23",
+   "target": "45",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "23",
+   "target": "54",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "23",
+   "target": "58",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "23",
+   "target": "64",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "24",
+   "target": "27",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "24",
+   "target": "38",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "24",
+   "target": "47",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "24",
+   "target": "49",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "24",
+   "target": "55",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "25",
+   "target": "49",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "25",
+   "target": "52",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "25",
+   "target": "64",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "26",
+   "target": "44",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "26",
+   "target": "50",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "26",
+   "target": "57",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "26",
+   "target": "69",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "27",
+   "target": "35",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "27",
+   "target": "47",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "30",
+   "target": "34",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "31",
+   "target": "45",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "31",
+   "target": "59",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "36",
+   "target": "51",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "38",
+   "target": "49",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "38",
+   "target": "62",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "38",
+   "target": "73",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "38",
+   "target": "79",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "38",
+   "target": "81",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "39",
+   "target": "69",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "39",
+   "target": "84",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "40",
+   "target": "48",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "40",
+   "target": "67",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "45",
+   "target": "49",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "45",
+   "target": "52",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "45",
+   "target": "64",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "47",
+   "target": "55",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "47",
+   "target": "58",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "49",
+   "target": "52",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "49",
+   "target": "64",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "54",
+   "target": "68",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "54",
+   "target": "75",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "56",
+   "target": "80",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "56",
+   "target": "84",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "58",
+   "target": "64",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "58",
+   "target": "75",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "59",
+   "target": "63",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "59",
+   "target": "67",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "59",
+   "target": "71",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "59",
+   "target": "72",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "59",
+   "target": "83",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "61",
+   "target": "71",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "62",
+   "target": "65",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "62",
+   "target": "66",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "62",
+   "target": "75",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "64",
+   "target": "75",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "72",
+   "target": "76",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "73",
+   "target": "75",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "73",
+   "target": "80",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "74",
+   "target": "80",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "75",
+   "target": "79",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "76",
+   "target": "83",
+   "weight": 1,
+   "color": "#E6E6E640"
+  },
+  {
+   "source": "80",
+   "target": "84",
+   "weight": 1,
+   "color": "#E6E6E640"
+  }
+ ],
+ "attributes": {
+
+ }
+}
+

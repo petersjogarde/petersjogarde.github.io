@@ -1,0 +1,23 @@
+name: d3po
+recipe: lamp
+config:
+  database: 'mysql:8.0'
+  php: '8.0'
+  webroot: .
+  xdebug: true
+  config:
+    php: .vscode/php.ini
+  proxy:
+    appserver: d3po.lndo.site
+    phpmyadmin: 
+      - phpmyadmin.d3.lndo.site
+  services:
+    phpmyadmin:
+      type: phpmyadmin
+      hosts: 
+        - database
+      config:
+        config: config/phpmyadmin.config.inc
+    appserver:
+      build:
+        - composer install
